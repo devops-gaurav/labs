@@ -49,8 +49,8 @@ copy/rename/move operations
 
 file/directory permissions 
 
-	drwxr-xr-x 2 naresh devops     4096 Jun 18 07:59 aws/
-	-rw-r--r-- 1 naresh devops   20276 Feb 20 04:17 ansible.cfg
+	drwxr-xr-x 2 gaurav devops     4096 Jun 18 07:59 aws/
+	-rw-r--r-- 1 gaurav devops   20276 Feb 20 04:17 ansible.cfg
 
 	-rw-r--r--  OR drwxr-xr-x   ---> are the read/write/execute permission for a file or directory in linux 
 	naresh -- is the owner of the file / directory 
